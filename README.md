@@ -11,6 +11,10 @@ El objetivo principal es ofrecer una herramienta que **simplifique la administra
 conocimientos financieros básicos como también a aquellos más profesionales que requieren un control más detallado.
 
 
+![demo1](/demo1.gif)
+
+![demo2](/demo2.gif)
+
 
 ---
 
