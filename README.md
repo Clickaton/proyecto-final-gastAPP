@@ -1,8 +1,7 @@
 ![Logo de la aplicación](/logo_gastAPP.png)
 # Documentación del Proyecto: gastAPP Desktop
 
-
-[Descargar gastAPP Beta Aquí]([https://github.com/Clickaton/gastAPP-Beta/raw/refs/heads/master/gastAPP%20Beta.zip](https://github.com/Clickaton/proyecto-final-gastAPP/releases/download/gastAPP_1.0.0b/gastAPP1.0.0b.zip))
+[Descargar gastAPP Beta Aquí](https://github.com/Clickaton/proyecto-final-gastAPP/releases/download/gastAPP_1.0.0b/gastAPP1.0.0b.zip)
 
 ## *1. Introducción al Proyecto*
 
